@@ -13,3 +13,15 @@ function mastermind() {
 }
 
 manatee.addEventListener('dblclick', mastermind); //end First Event Listener
+
+/* Second Event Listener
+
+In this example the event listener, 'mouseenter', listens to whether the user mouses over the image on the page and if so the action is to change from the existing image to one of a manatee hatching his latest diabolical plot. */
+
+var img = document.getElementById('evil');
+
+img.addEventListener('mouseover', function () {
+    if (img.src !== 'img/evil.jpg') {
+        img.src = 'img/evil.jpg';
+    }
+}); //end Second Event Listener
