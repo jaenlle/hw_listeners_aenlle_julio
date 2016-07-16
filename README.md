@@ -41,5 +41,18 @@
 
 
 ###Assignment Step 6
+* [MDN: dblclick](https://developer.mozilla.org/en-US/docs/Web/Events/dblclick)
+	* Used to learn more about the double-click event type.
 
-* 
+* [MDN: mouseover](https://developer.mozilla.org/en-US/docs/Web/Events/mouseover)
+	* Used to learn more about the mouse over event type.
+
+* [MDN: mouseenter](https://developer.mozilla.org/en-US/docs/Web/Events/mouseenter)
+	* Used to learn more about the mouse enter event type.
+
+* [w3schools: HTML DOM replaceChild() Method](http://www.w3schools.com/jsref/met_node_replacechild.asp)
+	* Used for help using the replaceChild method for the third listener of Step 6.
+
+##Comments
+
+Thank you for being understanding regarding my internet situation. 
