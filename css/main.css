@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css?family=Martel:400,900';
+@import 'https://fonts.googleapis.com/css?family=Covered+By+Your+Grace';
+
+body {
+    font-family: 'Martel', serif;
+    background-color: lightblue;
+}
+
+#container {
+    margin: auto;
+    max-width: 600px;
+    background-color: white;
+    padding: 15px 20px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    color: lightblue;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: 'Covered By Your Grace';
+    color: red;
+    letter-spacing: 3px;
+}
+
+p {
+    color: #8c8c8c;
+    letter-spacing: 1px;
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    padding: 2px 10px;
+    color: white;
+    font-family: 'Martel', serif;
+    background-color: lightblue;
+    border: none;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+
+}
