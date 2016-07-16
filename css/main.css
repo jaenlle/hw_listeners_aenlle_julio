@@ -47,13 +47,9 @@ img {
     margin-right: auto;
 }
 
-button {
-    padding: 2px 10px;
-    color: white;
-    font-family: 'Martel', serif;
-    background-color: lightblue;
-    border: none;
-    border-radius: 6px;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
+hr {
+    background-color: white;
+    height: 5px;
+    border: 2px solid lightblue;
+    margin: 45px 0;
 }
