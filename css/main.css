@@ -38,6 +38,7 @@ label {
 
 input,
 textarea {
+    width: 300px;
     margin-top: 15px;
     padding: 1px;
     border-width: 2px;
